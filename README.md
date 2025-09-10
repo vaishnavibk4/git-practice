@@ -1,10 +1,21 @@
 read me file for git
 
 
-
-vaishnavi's code
-
+git commit -"added featres like button like explore , search"
 
 
+4 comment
+5 commet
 
-chandhu
+
+
+
+git pull origin main
+this will download the code whatever is there in you git hub repository(Folder) (main branch)
+
+now you will duplicate the main 
+git checkout -b feature-branch
+
+
+
+you will do your changes

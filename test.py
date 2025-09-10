@@ -1,7 +1,8 @@
 c = input()
 
 y = c+1
-print(y)
+z = y
+print(z)
 
 
 

@@ -1,4 +1,9 @@
 c = input()
 
-print(c * 3)
+y = c+1
+print(y)
+
+
+
+
 

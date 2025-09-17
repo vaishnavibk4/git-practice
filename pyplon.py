@@ -1,5 +1,7 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
+        print("hey hey hey ")
+        print("ho ho ho")
         num_map = {}  # Stores num: index
         for i, num in enumerate(nums):
             complement = target - num
